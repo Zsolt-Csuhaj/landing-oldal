@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+    font-family: 'Pangolin', cursive;
+    background-color: #e4e4e4 ;
+  
+}
+
+
+h1{text-align: center;
+    color: goldenrod;
+
+}
+h2{text-align: center;
+padding-left: 20%;
+padding-right: 20%;
+font-weight: lighter;
+font-size: 110%;       }
+
+h3{text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 110%;
+    color: blue;      }
+
+
+.bg-img {
+    /* The image used */
+    background-image: url("igen.jpg");
+  
+    min-height: 300px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+  }
+  
+  /* Position the navbar container inside the image */
+  .container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+  }
+  
+  /* The navbar */
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .tanar1{
+    text-align: center; 
+
+    
+    
+  }
+  .szoveg{
+    margin-left: 300px;
+    margin-right: 300px;
+    
+  }
+  footer{
+    background-color: rgb(167, 185, 123);
+    padding-top: 20px;
+    padding-bottom: 30px;
+    text-align: left;
+    color: rgb(218, 90, 16);
+    padding-left: 30px;
+  }
+ 
+
